@@ -1,0 +1,14 @@
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/bin/Debug/net8.0/Sayi-Tahmin-Oyunu
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/bin/Debug/net8.0/Sayi-Tahmin-Oyunu.deps.json
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/bin/Debug/net8.0/Sayi-Tahmin-Oyunu.runtimeconfig.json
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/bin/Debug/net8.0/Sayi-Tahmin-Oyunu.dll
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/bin/Debug/net8.0/Sayi-Tahmin-Oyunu.pdb
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.AssemblyInfoInputs.cache
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.AssemblyInfo.cs
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.csproj.CoreCompileInputs.cache
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.dll
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/refint/Sayi-Tahmin-Oyunu.dll
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.pdb
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/Sayi-Tahmin-Oyunu.genruntimeconfig.cache
+/Users/gucciwest/Desktop/Sayi-Tahmin-Oyunu/Sayi-Tahmin-Oyunu/obj/Debug/net8.0/ref/Sayi-Tahmin-Oyunu.dll
