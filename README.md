@@ -1,5 +1,6 @@
-Sayı Tahmin Oyunu Başlangıç Kısmı
-Bu proje, C# ile geliştirilmiş basit bir konsol tabanlı sayı tahmin oyunudur. Bilgisayar 1-100 arasında rastgele bir sayı tutar ve kullanıcının bu sayıyı belirli bir tahmin hakkı (veya sınırsız hak) ile bilmeye çalışmasını hedefler.
+Sayı Tahmin Oyunu 
+- Bu proje, C# ile geliştirilmiş basit bir konsol tabanlı sayı tahmin oyunudur.
+- Bilgisayar 1-100 arasında rastgele bir sayı tutar ve kullanıcının bu sayıyı belirli bir tahmin hakkı (veya sınırsız hak) ile bilmeye çalışmasını hedefler.
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
 Nasıl Çalışır?
 - Program başladığında Random sınıfı ile 1-100 arasında rastgele bir sayı tutulur.
